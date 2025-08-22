@@ -1,0 +1,13 @@
+# This is a comment and will be ignored by the client.
+#/run print((select(4, GetBuildInfo())));
+#Toc must be same name as folder name
+## Interface: 110200
+##Title: Skip Purple Prompts
+## Notes: Allows user to bypass "Selling [Item] will make it non-tradable, even if you buy it back." Intended for grinding mogs
+##Author: ErickRuiz
+##Version: 0.0.1
+
+
+#Runs StepTracker.lua file first.
+SkipPurplePrompts.lua
+
